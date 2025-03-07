@@ -45,8 +45,6 @@ This allows you to build, mine, fight, and explore without constantly pausing to
 ✔️ Perfect for survival, PvP, and speedruns.
 
 
----
-
 ## **How to Install**
 
 1. Download and install the addon.
@@ -54,14 +52,12 @@ This allows you to build, mine, fight, and explore without constantly pausing to
 3. Play normally — the system works in the background.
 4. Make sure you have extra items in your inventory for the replacement to work.
 
----
 
 ## **Compatibility**
 
 ✅ Works with most addons, as long as they don't directly modify the inventory system.  
 ✅ Fully compatible with normal worlds and realms.
 
----
 
 ## **Addon Packs**
 
