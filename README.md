@@ -44,7 +44,6 @@ This allows you to build, mine, fight, and explore without constantly pausing to
 ✔️ No more annoying pauses to open the inventory.  
 ✔️ Perfect for survival, PvP, and speedruns.
 
-![Stack Refill Demo](https://i.imgur.com/66edVa1.gif)
 
 ---
 
@@ -68,6 +67,5 @@ This allows you to build, mine, fight, and explore without constantly pausing to
 
 You are allowed to use this addon in public or private addon packs. However, please do not re-upload this addon to other sites without permission. Always link back to this **CurseForge page** or the **MCPEDL page** if you share it.
 
-![Stack Refill Preview](https://i.imgur.com/4751BBW.png)
 
 <p align="center"><strong>If you find any bugs or have suggestions, feel free to contact me through my <a href="https://discord.com/invite/z5wshN7Xgm" target="_blank" rel="nofollow noopener" style="color: #e03e2d;">Discord Server</a>. Your feedback helps make this addon even better!</strong></p>
