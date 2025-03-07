@@ -1,9 +1,9 @@
 ## **Stack Refill Addon [Click for More](https://www.curseforge.com/members/cesardev/projects)**
 
 Stack Refill is a **Minecraft Bedrock** addon that makes your gameplay much smoother and more comfortable. Its main feature is **automatically replacing any item or tool** when it runs out or breaks, so you no longer have to manually open your inventory to restock.
-
+<div align="center">
 ![Stack Refill Addon Image](https://i.imgur.com/hOXYhTV.png)
-
+</div align="center">
 <p align="center">
   <img src="https://img.shields.io/discord/1261813234403377153?style=for-the-badge&logo=discord&logoColor=white&labelColor=3182CE&color=66b3ff" alt="Discord">
   <a href="https://github.com/ByCesarKun/stack-refill" rel="nofollow">
