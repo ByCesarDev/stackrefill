@@ -6,7 +6,7 @@ Stack Refill is a **Minecraft Bedrock** addon that makes your gameplay much smoo
 
 <p align="center">
   <img src="https://img.shields.io/discord/1261813234403377153?style=for-the-badge&logo=discord&logoColor=white&labelColor=3182CE&color=66b3ff" alt="Discord">
-  <a href="https://github.com/ByCesarKun/stack-refill" rel="nofollow">
+  <a href="https://github.com/ByCesarDev/stackrefill" rel="nofollow">
     <img src="https://img.shields.io/static/v1?label=&message=Github&color=66b3ff&labelColor=3182CE&style=for-the-badge&logo=github&logoColor=white" alt="Github">
   </a>
   <a href="https://ko-fi.com/bycesarkun" rel="nofollow">
