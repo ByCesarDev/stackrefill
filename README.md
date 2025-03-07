@@ -5,15 +5,15 @@ Stack Refill is a **Minecraft Bedrock** addon that makes your gameplay much smoo
 ![Stack Refill Addon Image](https://i.imgur.com/CxKuDOM.png)
 
 <p align="center">
-  <img src="https://img.shields.io/discord/1261813234403377153?style=for-the-badge&logo=discord&logoColor=white&labelColor=#542C14&color=#684E1E" alt="Discord">
+  <img src="https://img.shields.io/discord/1261813234403377153?style=for-the-badge&logo=discord&logoColor=white&labelColor=3182CE&color=66b3ff" alt="Discord">
   <a href="https://github.com/ByCesarKun/stack-refill" rel="nofollow">
-    <img src="https://img.shields.io/static/v1?label=&message=Github&color=684E1E&labelColor=4493F8&style=for-the-badge&logo=github&logoColor=white" alt="Github">
+    <img src="https://img.shields.io/static/v1?label=&message=Github&color=66b3ff&labelColor=3182CE&style=for-the-badge&logo=github&logoColor=white" alt="Github">
   </a>
   <a href="https://ko-fi.com/bycesarkun" rel="nofollow">
-    <img src="https://img.shields.io/static/v1?label=&message=Support&color=684E1E&labelColor=542C14&style=for-the-badge&logo=kofi&logoColor=white" alt="Support">
+    <img src="https://img.shields.io/static/v1?label=&message=Support&color=66b3ff&labelColor=3182CE&style=for-the-badge&logo=kofi&logoColor=white" alt="Support">
   </a>
   <a href="https://github.com/ByCesarKun/stack-refill?tab=MIT-1-ov-file" rel="nofollow">
-    <img src="https://img.shields.io/static/v1?label=MIT&message=License&color=684E1E&labelColor=542C14&style=for-the-badge" alt="MIT License">
+    <img src="https://img.shields.io/static/v1?label=MIT&message=License&color=66b3ff&labelColor=3182CE&style=for-the-badge" alt="MIT License">
   </a>
 </p>
 
