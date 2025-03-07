@@ -17,7 +17,6 @@ Stack Refill is a **Minecraft Bedrock** addon that makes your gameplay much smoo
   </a>
 </p>
 
-![Stack Refill Banner](https://i.imgur.com/IcxIEMx.png)
 
 ## **What Does Stack Refill Do?**
 
@@ -49,7 +48,7 @@ This allows you to build, mine, fight, and explore without constantly pausing to
 
 ---
 
-## **How to Use**
+## **How to Install**
 
 1. Download and install the addon.
 2. Enable the addon (behavior pack) in your world settings.
